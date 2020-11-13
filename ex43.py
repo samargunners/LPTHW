@@ -138,7 +138,7 @@ class LaserWeaponArmory(Scene):
 
 class TheBridge(Scene):
 
-    def enter(Self):
+    def enter(self):
         print(dedent("""
                 You burst into the bridge with the neutron destruct bomb
                 under your arm and surprise 5 Gothons who are trying to
